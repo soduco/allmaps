@@ -1,8 +1,8 @@
 name = "tileserver"
 usage_model = 'unbound'
 main = "dist/worker.es.js"
-compatibility_flags = []
-compatibility_date = "2021-12-29"
+compatibility_flags = ["nodejs_compat"]
+compatibility_date = "2023-12-18"
 account_id = "514081276e13c9aa2894e2efde2dc41f"
 workers_dev = true
 
